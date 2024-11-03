@@ -1,6 +1,3 @@
-Sure! Here’s the complete README for your Placement Tracking System:
-
----
 
 # Placement Tracking System
 
@@ -28,7 +25,7 @@ The Placement Tracking System is a web application designed to help students man
 
 ### Clone the Repository
 ```bash
-git clone [your-repo-link]
+git clone [https://github.com/fazal1273/JFSDProject.git]
 cd placement-tracking-system
 ```
 
@@ -78,7 +75,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
 - [React Documentation](https://reactjs.org/)
-
----
-
-You can customize any part of this template to fit your project's specific details!
